@@ -9,14 +9,14 @@
 - Mac
 
   ```bash
-  /Applications/CocosCreator.app/Contents/MacOS/CocosCreator --path projectPath
+  /Applications/CocosCreator3D.app/Contents/MacOS/CocosCreator3D --project projectPath
   --build "platform=web-desktop;debug=true"
   ```
 
 - Windows
 
   ```bash
-  CocosCreator/CocosCreator.exe --path projectPath --build "platform=web-desktop;debug=true"
+  CocosCreator3D/CocosCreator3D.exe --project projectPath --build "platform=web-desktop;debug=true"
   ```
 
 ## 构建参数
